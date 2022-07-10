@@ -1,2 +1,2 @@
-# machi-cli
+# maçi-cli
 Maçi Command Line Interface
